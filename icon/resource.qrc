@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icons8-zoom-out-24.png</file>
+    <file>icons8-zoom-in-24.png</file>
+    <file>icons8-target-24.png</file>
+    <file>icons8-zoom-to-extents-24.png</file>
+    <file>icons8-drag-24.png</file>
+    <file>icons8-remove-24.png</file>
+    <file>icons8-arrow-24.png</file>
+    <file>icons8-save-30.png</file>
+    <file>icons8-arrow-pointing-left-24.png</file>
+    <file>icons8-add-folder-24.png</file>
+    <file>icons8-back-arrow-24.png</file>
+    <file>icons8-forward-button-24.png</file>
+    <file>icons8-add-file-24.png</file>
+    <file>icons8-add-file-30.png</file>
+  </qresource>
+</RCC>
